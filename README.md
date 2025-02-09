@@ -45,8 +45,6 @@ We’re looking forward to making this game even better:
 - Multiple difficulty levels 🎯
 - High score tracking & leaderboards 🏆
 
-## 📜 License
-This game is **open-source**! Feel free to fork, modify, and enhance it. If you create something cool, we’d love to hear about it! 🚀💫
 
 Enjoy the game and happy shooting! 🎮✨
 
